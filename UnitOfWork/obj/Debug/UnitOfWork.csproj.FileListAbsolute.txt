@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.dll
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.dll
+c:\users\administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache
+E:\Work\Database\SignleR\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.dll
+E:\Work\Database\SignleR\UnitOfWork\UnitOfWork\bin\Debug\UnitOfWork.pdb
+E:\Work\Database\SignleR\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache
+E:\Work\Database\SignleR\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.dll
+E:\Work\Database\SignleR\UnitOfWork\UnitOfWork\obj\Debug\UnitOfWork.pdb
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\UnitOfWork\bin\Debug\UnitOfWork.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\UnitOfWork\bin\Debug\UnitOfWork.pdb
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\UnitOfWork\obj\Debug\UnitOfWork.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\UnitOfWork\obj\Debug\UnitOfWork.pdb
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\UnitOfWork\obj\Debug\UnitOfWork.csprojResolveAssemblyReference.cache

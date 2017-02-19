@@ -1,0 +1,261 @@
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\SignalRDbUpdates.dll.config
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\SignalRDbUpdates.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\SignalRDbUpdates.pdb
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Antlr3.Runtime.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\EntityFramework.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\EntityFramework.SqlServer.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.Google.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Web.Infrastructure.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Newtonsoft.Json.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Owin.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Helpers.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Mvc.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Optimization.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Razor.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.WebPages.Deployment.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.WebPages.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.WebPages.Razor.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\WebGrease.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Helpers.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Mvc.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Optimization.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Razor.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.WebPages.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.WebPages.Deployment.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.WebPages.Razor.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Antlr3.Runtime.pdb
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Newtonsoft.Json.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\EntityFramework.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\EntityFramework.SqlServer.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.Google.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.csprojResolveAssemblyReference.cache
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.pdb
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Net.Http.Formatting.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Http.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Http.WebHost.dll
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Net.Http.Formatting.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Http.xml
+E:\BlogDemos\SignalRDbUpdates\SignalRDbUpdates\bin\System.Web.Http.WebHost.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\SignalRDbUpdates.dll.config
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\SignalRDbUpdates.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\SignalRDbUpdates.pdb
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Antlr3.Runtime.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\EntityFramework.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\EntityFramework.SqlServer.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Newtonsoft.Json.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Owin.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Net.Http.Formatting.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Helpers.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Http.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Http.WebHost.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Mvc.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Optimization.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Razor.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.WebPages.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\WebGrease.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Net.Http.Formatting.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Http.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Http.WebHost.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Helpers.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Mvc.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Optimization.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.Razor.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.WebPages.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Antlr3.Runtime.pdb
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Newtonsoft.Json.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\EntityFramework.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\EntityFramework.SqlServer.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.csprojResolveAssemblyReference.cache
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.dll
+C:\Users\Ankur\Downloads\signalrdatabasenotifications-master\signalrdatabasenotifications-master\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.pdb
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\SignalRDbUpdates.dll.config
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\SignalRDbUpdates.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\SignalRDbUpdates.pdb
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Antlr3.Runtime.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\EntityFramework.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\EntityFramework.SqlServer.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Newtonsoft.Json.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Owin.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Net.Http.Formatting.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Helpers.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Http.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Http.WebHost.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Mvc.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Optimization.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Razor.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\WebGrease.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Net.Http.Formatting.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Http.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Http.WebHost.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Helpers.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Mvc.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Optimization.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Razor.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Antlr3.Runtime.pdb
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Newtonsoft.Json.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\EntityFramework.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\EntityFramework.SqlServer.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.dll
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.pdb
+C:\Users\Ankur\Desktop\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.csprojResolveAssemblyReference.cache
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\SignalRDbUpdates.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\SignalRDbUpdates.pdb
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Antlr3.Runtime.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\EntityFramework.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\EntityFramework.SqlServer.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Google.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Web.Infrastructure.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Newtonsoft.Json.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Owin.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Net.Http.Formatting.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Helpers.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Http.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Http.WebHost.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Mvc.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Optimization.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Razor.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.Deployment.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.Razor.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\UnitOfWork.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\WebGrease.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\UnitOfWork.pdb
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Net.Http.Formatting.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Http.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Http.WebHost.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Helpers.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Mvc.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Optimization.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.Razor.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.Deployment.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\System.Web.WebPages.Razor.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Antlr3.Runtime.pdb
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Newtonsoft.Json.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\EntityFramework.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\EntityFramework.SqlServer.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Google.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.csprojResolveAssemblyReference.cache
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.dll
+E:\Work\Database\SignleR\Project_Demo\SignalR Demo Crude\SignalR Demo Crude\SignalRDbUpdates\obj\Debug\SignalRDbUpdates.pdb

@@ -1,0 +1,130 @@
+﻿@model SignalRDbUpdates.Models.Messages
+
+@{
+    ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Update</h2>
+<hr />
+<style>
+    dd{
+        margin-bottom:10px;
+    }
+</style>
+
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CampaignName)
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.CampaignName, new { htmlAttributes = new { @class = "form-control" } })
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MessageDate)
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.MessageDate, new { htmlAttributes = new { @class = "form-control"} })
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Clicks)
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.Clicks, new { htmlAttributes = new { @class = "form-control" } })
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Conversions)
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.Conversions, new { htmlAttributes = new { @class = "form-control" } })
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Impressions)
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.Impressions, new { htmlAttributes = new { @class = "form-control" } })
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AffiliateName)
+        </dt>
+
+        <dd>
+            @Html.EditorFor(model => model.AffiliateName, new { htmlAttributes = new { @class = "form-control" } })
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |*@
+    @*@Html.ActionLink("Back to List", "Index")*@
+</p>
+@*<div class="buttons">
+    <button id="btnUpdate" onclick="updateUser(@Model.ID)">Submit</button>
+</div>*@
+<div class="col-md-offset-2 col-md-10">
+    <input type="button" value="Submit" id="btnUpdate" onclick="updateUser(@Model.ID)" class="btn btn-default" />
+</div>
+
+<script>
+    $("#MessageDate").focus(function () {
+        debugger;
+        $(this).attr("type", "date");
+    })
+
+    function updateUser(id) {
+        debugger;
+        var CampaignName = $("#CampaignName").val();
+        var MessageDate = $("#MessageDate").val();
+        var Clicks = $("#Clicks").val();
+        var Conversions = $("#Conversions").val();
+        var Impressions = $("#Impressions").val();
+        var AffiliateName = $("#AffiliateName").val();
+
+        $.ajax({
+            url: '@Url.Action("Update", "Home")',
+            type: "POST",
+            data: {
+                "Id":id,
+                "CampaignName": CampaignName,
+                "MessageDate": MessageDate,
+                "Clicks": Clicks,
+                "Conversions": Conversions,
+                "Impressions": Impressions,
+                "AffiliateName": AffiliateName,
+            },
+            //dataType: 'Json',
+            //suceess: function (data) {
+            //    if (data.data == "Success") {
+            //        alert("Record has been updated successfully.");
+            //        window.location.href = '/Home/Index';
+            //    }
+            //    else {
+            //        alert("Error get Generated");
+            //    }
+            //},
+            //error: function () {
+            //    alert("Error get Generated");
+            //}
+        });
+        alert("Record has been updated successfully.");
+        $("#CampaignName").val('');
+        $("#MessageDate").val('');
+        $("#Clicks").val('');
+        $("#Conversions").val('');
+        $("#Impressions").val('');
+        $("#AffiliateName").val('');
+        
+    }
+</script>

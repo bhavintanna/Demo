@@ -1,0 +1,60 @@
+﻿@model IEnumerable<SignalRDbUpdates.Models.Messages>
+
+<p style="margin-top:20px;">
+   <label>Monitor Screen</label>
+</p>
+<table class="table">
+    <tr>
+        @*<th>@Html.DisplayNameFor(model => model.ID)</th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.CampaignName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MessageDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Clicks)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Conversions)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Impressions)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AffiliateName)
+        </th>
+        <th>
+            New Status
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*<td>@item.ID</td>*@
+            <td>
+                @item.CampaignName
+            </td>
+            <td>
+                @item.MessageDate
+            </td>
+            <td>
+                @item.Clicks
+            </td>
+            <td>
+                @item.Conversions
+            </td>
+            <td>
+                @item.Impressions
+            </td>
+            <td>
+                @item.AffiliateName
+            </td>
+            <td>
+                <label id="status_@item.ID"></label>
+            </td>
+
+        </tr>
+    }
+</table>
+

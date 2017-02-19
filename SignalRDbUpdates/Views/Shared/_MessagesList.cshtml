@@ -1,0 +1,68 @@
+﻿@model IEnumerable<SignalRDbUpdates.Models.Messages>
+
+<p style="margin-top:20px;">
+    @*@Html.ActionLink("Create", "Home")*@
+    <a href="@Url.Action("Create", "Home")" style="font-size:18px;text-decoration:underline">Create new Campaign</a>
+    <a href="@Url.Action("Monitor", "Home")" style="font-size:18px;text-decoration:underline;margin-left:15px;">Monitor screen</a>
+</p>
+<table class="table">
+    <tr>
+        @*<th>@Html.DisplayNameFor(model => model.ID)</th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.CampaignName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MessageDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Clicks)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Conversions)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Impressions)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AffiliateName)
+        </th>
+        <th>
+            Edit
+        </th>
+        <th>
+            Delete
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        @*<td>@item.ID</td>*@
+        <td>
+            @item.CampaignName
+        </td>
+        <td>
+            @item.MessageDate
+        </td>
+        <td>
+            @item.Clicks
+        </td>
+        <td>
+            @item.Conversions
+        </td>
+        <td>
+            @item.Impressions
+        </td>
+        <td>
+            @item.AffiliateName
+        </td>
+        <td>
+            <a class="btn btn-primary btn-xs" id="edit" href="@Url.Action("Update", "Home", new { id = item.ID })"><span class="glyphicon glyphicon-pencil"></span></a>
+        </td>
+        <td>
+            <button class="btn btn-danger btn-xs" id="delete" onclick="deleteRow(@item.ID)"><span class="glyphicon glyphicon-trash"></span></button>
+        </td>
+
+    </tr>
+}
+
+</table>
